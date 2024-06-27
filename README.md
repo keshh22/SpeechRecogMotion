@@ -1,1 +1,1 @@
-# Speech-Recognition-Through-Motion
+# Speech Recognition Through Lip Motion Analysis
